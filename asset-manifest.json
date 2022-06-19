@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/muha_ali/static/css/main.b3872907.css",
+    "main.js": "/muha_ali/static/js/main.96323f2d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/muha_ali/static/js/787.28cb0dcd.chunk.js",
+    "static/media/home photo.png": "/muha_ali/static/media/home photo.d67029014196799151e0.png",
+    "static/media/home3.jpg": "/muha_ali/static/media/home3.0a22d1f6dfb52078222e.jpg",
+    "index.html": "/muha_ali/index.html",
+    "main.b3872907.css.map": "/muha_ali/static/css/main.b3872907.css.map",
+    "main.96323f2d.js.map": "/muha_ali/static/js/main.96323f2d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/muha_ali/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3872907.css",
+    "static/js/main.96323f2d.js"
+  ]
+}
